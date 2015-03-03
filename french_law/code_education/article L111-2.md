@@ -1,10 +1,11 @@
 ---
-Code de l'éducation
-Partie législative
-Première partie : Dispositions générales et communes
-Livre Ier : Principes généraux de l'éducation
-Titre Ier : Le droit à l'éducation
-Chapitre Ier : Dispositions générales.
+code: Code de l'éducation
+part: Partie législative
+sub_part: Première partie : Dispositions générales et communes
+book: Livre Ier : Principes généraux de l'éducation
+title: Titre Ier : Le droit à l'éducation
+chapter: Chapitre Ier : Dispositions générales
+article_number: Article L111-2
 ---
 
 Tout enfant a droit à une formation scolaire qui, complétant l'action de sa famille, concourt à son éducation.

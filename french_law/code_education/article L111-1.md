@@ -1,11 +1,11 @@
 ---
-code: Code de l'éducation
-part: Partie législative
-sub_part: Première partie : Dispositions générales et communes
-book: Livre Ier : Principes généraux de l'éducation
-title: Titre Ier : Le droit à l'éducation
-chapter: Chapitre Ier : Dispositions générales
-article_number: Article L111-1
+code: "Code de l'éducation"
+part: "Partie législative"
+sub_part: "Première partie : Dispositions générales et communes"
+book: "Livre Ier : Principes généraux de l'éducation"
+title: "Titre Ier : Le droit à l'éducation"
+chapter: "Chapitre Ier : Dispositions générales"
+article_number: "Article L111-1"
 ---
 
 L'éducation est la première priorité nationale. Le service public de l'éducation est conçu et organisé en fonction des élèves et des étudiants. Il contribue à l'égalité des chances et à lutter contre les inégalités sociales et territoriales en matière de réussite scolaire et éducative. Il reconnaît que tous les enfants partagent la capacité d'apprendre et de progresser. Il veille à l'inclusion scolaire de tous les enfants, sans aucune distinction. Il veille également à la mixité sociale des publics scolarisés au sein des établissements d'enseignement. Pour garantir la réussite de tous, l'école se construit avec la participation des parents, quelle que soit leur origine sociale. Elle s'enrichit et se conforte par le dialogue et la coopération entre tous les acteurs de la communauté éducative.

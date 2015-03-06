@@ -7,6 +7,7 @@ chapter: "Chapitre premier : Impôt sur le revenu"
 section: "Section II : Revenus imposables"
 sub_section: "2e Sous-section : Revenu global"
 paragraph: "I : Revenu imposable"
+article_number: "Article 163 bis G"
 ---
 
 I.-Le gain net réalisé lors de la cession des titres souscrits en exercice des bons attribués dans les conditions définies aux II à III est imposé dans les conditions prévues à l'article 150-0 A et au taux de 19 %.
